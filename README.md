@@ -18,7 +18,9 @@ This project demonstrates an end-to-end data cleaning and transformation (ETL) p
    - Converted string flags (`balcony`) into binary integer formats (`1`/`0`).
 4. **Data Hygiene:** Removed non-ASCII/corrupt characters, trimmed trailing spaces, backed missing bedroom values with bath counts, and dropped redundant text columns (`description`, `property_title`, `location`).
 
-## 📁 Repository Structure
-├── Real Estate Data V21.csv    # Raw original dataset \n
-├── real_estate(p1).sql         # Complete MySQL cleaning script \n
+## Repository Structure
+```text
+├── Real Estate Data V21.csv    # Raw original dataset
+├── real_estate(p1).sql         # Complete MySQL cleaning script
 └── README.md                   # Project documentation
+```                 # Project documentation
