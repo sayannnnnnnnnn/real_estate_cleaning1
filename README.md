@@ -23,4 +23,4 @@ This project demonstrates an end-to-end data cleaning and transformation (ETL) p
 ├── Real Estate Data V21.csv    # Raw original dataset
 ├── real_estate(p1).sql         # Complete MySQL cleaning script
 └── README.md                   # Project documentation
-```                 # Project documentation
+```
