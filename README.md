@@ -4,8 +4,7 @@
 [View the Live Tableau Dashboard Here] (https://public.tableau.com/app/profile/sayan.mitra2384/viz/ChennaiRealEstateDataAnalyticsDashboard/ChennaiRealEstateAnalyticsDashboard?publish=yes)
 
 ### Dashboard Snapshot
-![Chennai Real Estate Dashboard] (<img width="1828" height="770" alt="Chennai Real Estate Analytics Dashboard" src="https://github.com/user-attachments/assets/32e80dfc-1cf4-437d-9d83-510d19375eab" />
-)
+[Chennai Real Estate Dashboard] <img width="1828" height="770" alt="Chennai Real Estate Analytics Dashboard" src="https://github.com/user-attachments/assets/32e80dfc-1cf4-437d-9d83-510d19375eab" />
 
 ### Key Dashboard Insights
 * **Top Localities:** Ekkatuthangal (₹24,170/sqft), SRI DEVI NEDIL (₹19,120/sqft), and Parthasarathy Puram (₹18,390/sqft) command the highest per-sqft rates.
