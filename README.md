@@ -1,5 +1,17 @@
 # Real Estate Data Cleaning & Transformation (MySQL)
 
+## Interactive Tableau Dashboard
+[View the Live Tableau Dashboard Here] (https://public.tableau.com/app/profile/sayan.mitra2384/viz/ChennaiRealEstateDataAnalyticsDashboard/ChennaiRealEstateAnalyticsDashboard?publish=yes)
+
+### Dashboard Snapshot
+![Chennai Real Estate Dashboard] (<img width="1828" height="770" alt="Chennai Real Estate Analytics Dashboard" src="https://github.com/user-attachments/assets/32e80dfc-1cf4-437d-9d83-510d19375eab" />
+)
+
+### Key Dashboard Insights
+* **Top Localities:** Ekkatuthangal (₹24,170/sqft), SRI DEVI NEDIL (₹19,120/sqft), and Parthasarathy Puram (₹18,390/sqft) command the highest per-sqft rates.
+* **Pricing by Type:** Independent Houses average ~₹1.61 Cr, Villas ~₹1.17 Cr, and Apartments ~₹65.1 Lakhs.
+* **Inventory Distribution:** Market supply is heavily concentrated in 2 BHK configurations (174 of 295 listings).
+
 ## Project Overview
 This project demonstrates an end-to-end data cleaning and transformation (ETL) pipeline using MySQL Workbench on a real estate dataset containing ~14,500 listings. The goal was to convert raw, unstructured text data into a structured, relational schema optimized for quantitative analysis.
 
